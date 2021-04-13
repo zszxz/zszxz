@@ -19,6 +19,6 @@ Here are some ideas to get you started:
   当然只学技术还远远不够，我还是你们的心灵人生导师；在公众号上我还会分享一些技术以外的文章，丰富你的人生阅历；增加知识量，
 强化大脑，开拓视野，成为一个独立思考的人；
 
-  当然你也可以在浏览器搜索 https://zszxz.com/index，查看我的博客；知识追寻者 github 的源码 与公众号文章，或者博客文章配套；推荐公众号或者个人博客，原因是排版清晰，知识系统，学起来比较快速；
+  当然你也可以在浏览器搜索 https://zszxz.com/index ；查看我的博客；知识追寻者 github 的源码 与公众号文章，或者博客文章配套；推荐公众号或者个人博客，原因是排版清晰，知识系统，学起来比较快速；
 
 ![](https://gitee.com/lsc180/images/raw/master/img/zszxz.jpg)
